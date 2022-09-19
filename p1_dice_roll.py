@@ -5,8 +5,6 @@ dmax = 6
 
 print("The dice are rolling....")
 
-mydice = random.randint(dmin, dmax)
-print("My dice:",mydice)
+print("My dice:", random.randint(dmin, dmax))
 
-yourdice = random.randint(dmin, dmax)
-print("Your dice:",yourdice)
+print("Your dice:", random.randint(dmin, dmax))
