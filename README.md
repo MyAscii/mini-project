@@ -1,3 +1,7 @@
 ## Mini projects
-Project 1 = Create a dice roll
-Project 2 = Create a floyd's triangle
+
+| Date | No. | Name |
+| ------ | - | ------ |
+| 19/09/22 | 1 | Dice roll |
+| 21/09/22 | 2 | Floyd's triangle |
+| 22/09/22 | 3 | Factors_finder |
